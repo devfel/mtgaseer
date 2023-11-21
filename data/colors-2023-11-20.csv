@@ -1,0 +1,61 @@
+Color,Wins,# Games,Win Rate
+Mono-color,919,1690,54.40%
+Mono-White,244,416,58.70%
+Mono-Blue,125,214,58.40%
+Mono-Black,397,756,52.50%
+Mono-Red,119,231,51.50%
+Mono-Green,34,73,46.60%
+Mono-color + Splash,1741,3221,54.10%
+Mono-White + Splash,364,673,54.10%
+Mono-Blue + Splash,331,584,56.70%
+Mono-Black + Splash,547,1070,51.10%
+Mono-Red + Splash,283,518,54.60%
+Mono-Green + Splash,216,376,57.40%
+Two-color,106619,187013,57.00%
+Azorius (WU),20837,34934,59.60%
+Dimir (UB),9102,16806,54.20%
+Rakdos (BR),6345,11882,53.40%
+Gruul (RG),12386,21437,57.80%
+Selesnya (GW),4713,8298,56.80%
+Orzhov (WB),9317,17272,53.90%
+Golgari (BG),6348,11825,53.70%
+Simic (GU),4296,7782,55.20%
+Izzet (UR),18362,30814,59.60%
+Boros (RW),14913,25963,57.40%
+Two-color + Splash,26232,48910,53.60%
+Azorius (WU) + Splash,3616,6522,55.40%
+Dimir (UB) + Splash,1442,2861,50.40%
+Rakdos (BR) + Splash,1682,3297,51.00%
+Gruul (RG) + Splash,3921,7289,53.80%
+Selesnya (GW) + Splash,1901,3463,54.90%
+Orzhov (WB) + Splash,2059,4029,51.10%
+Golgari (BG) + Splash,1925,3769,51.10%
+Simic (GU) + Splash,1581,3143,50.30%
+Izzet (UR) + Splash,3876,7012,55.30%
+Boros (RW) + Splash,4229,7525,56.20%
+Three-color,3998,8055,49.60%
+Jeskai (WUR),980,1876,52.20%
+Sultai (UBG),423,885,47.80%
+Mardu (BRW),248,526,47.10%
+Temur (RGU),261,505,51.70%
+Abzan (GWB),172,376,45.70%
+Esper (WUB),332,697,47.60%
+Grixis (UBR),229,494,46.40%
+Jund (BRG),381,743,51.30%
+Naya (RGW),648,1283,50.50%
+Bant (GWU),324,670,48.40%
+Three-color + Splash,960,1996,48.10%
+Jeskai (WUR) + Splash,136,272,50.00%
+Sultai (UBG) + Splash,75,193,38.90%
+Mardu (BRW) + Splash,67,148,45.30%
+Temur (RGU) + Splash,101,208,48.60%
+Abzan (GWB) + Splash,96,179,53.60%
+Esper (WUB) + Splash,57,114,50.00%
+Grixis (UBR) + Splash,57,128,44.50%
+Jund (BRG) + Splash,160,318,50.30%
+Naya (RGW) + Splash,106,207,51.20%
+Bant (GWU) + Splash,105,229,45.90%
+Four-color,77,153,50.30%
+Four-color + Splash,79,159,49.70%
+Five-color,1,3,33.30%
+All Decks,140626,251200,56.00%
