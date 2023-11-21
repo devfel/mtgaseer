@@ -5,7 +5,7 @@
 
 # 🎴 MTGA Seer 🔮<br> A "Magic: The Gathering" Card Data Analysis Tool
 
-This tool is designed to analyze and display statistics related to Magic: The Gathering Arena (MTG, MTGA) cards. It leverages a graphical user interface (GUI) built with Tkinter to enable users to interactively explore card data. The tool is intended to be used by players of the MTG Arena video game to help them make more informed decisions when drafting cards in the game's limited format. The tool is also useful for players of the physical MTG card game. The tool is built using Python 3.8.5 and the 17lands.com MTG card data set.
+This tool is designed to analyze and display statistics related to Magic: The Gathering Arena (MTG, MTGA) cards. It leverages a graphical user interface (GUI) built with Tkinter to enable users to interactively explore card data. The tool is intended to be used by players of the MTG Arena video game to help them make more informed decisions when drafting cards in the game's limited format. The tool is also useful for players of the physical MTG card game.
 
 ## Features
 
